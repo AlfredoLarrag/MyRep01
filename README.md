@@ -49,10 +49,10 @@ Instrucciones de operación
 Evidencia
 
 
-Screenshot from 2022-08-25 10-09-53.png
 
-Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
+
+        Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
 
 Créditos
 
-Desarrollado por Alfredo Lárraga
+        Desarrollado por Alfredo Lárraga
