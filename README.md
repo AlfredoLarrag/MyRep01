@@ -48,9 +48,6 @@ Instrucciones de operación
 
 Evidencia
 
-    
-
-        https://raw.githubusercontent.com/AlfredoLarrag/MyRep01/blob/61937c4e43038d1c1e8c3e984a5acaf96b00d050/Screenshot%20from%202022-08-25%2010-09-53.png
         Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
 
 Créditos
