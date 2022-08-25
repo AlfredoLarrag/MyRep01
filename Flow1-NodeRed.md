@@ -42,12 +42,13 @@ Para ejecutar este flow, es necesario lo siguiente
 
 Instrucciones de operación
 
-Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
+Evidencia
+
+
+Screenshot from 2022-08-25 10-09-53.png
+
+Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
 
 Créditos
 
-Desarrollado por Hugo Escalpelo
-
-    hugoescalpelo.com
-    Página en Facebook
-    GitHub
+Desarrollado por Alfredo Lárraga
