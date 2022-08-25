@@ -50,7 +50,7 @@ Evidencia
 
     
 
-        https://raw.githubusercontent.com/AlfredoLarrag/MyRep01/blob/main/Screenshot from 2022-08-25 10-09-53.png
+        https://raw.githubusercontent.com/AlfredoLarrag/MyRep01/Screenshot from 2022-08-25 10-09-53.png
         Para observar el resultado de este flow, sólo es necesario abrir la pestaña Debug.
 
 Créditos
